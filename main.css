@@ -1,0 +1,9 @@
+h1 {
+    font-size: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    color: brown;
+    border: 5px greenyellow ;
+    border-radius: 50px;
+}
